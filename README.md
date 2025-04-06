@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Prince Desai</h1>
 <h3 align="center">A Passionate Software Engineer From India.</h3>
 
-- Portfolio : [Portfolio](princedesai.me)
+- Portfolio : [Portfolio](www.princedesai.me)
 - 📄 Resume : [Prince_Desai_Resume](https://shorturl.at/x6c9i)
 - 📫 How to reach me: ppatel3735@gmail.com
 - ⚡ [LeetCode](https://leetcode.com/u/pd1207)
