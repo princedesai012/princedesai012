@@ -89,7 +89,7 @@ Final-Year Computer Engineering student based in **Surat**. I specialize in turn
 Whether it's a SaaS idea, an automation requirement, or just a talk about the latest in ML—I'm always up for it.
 
 - 📞 **Phone:** +91 9714865744
-- 🌐 **Portfolio:** [princedesai.me](https://www.princedesai.me)
+- 🌐 **Portfolio:** [portfolio](https://www.princeai.tech)
 - 🧠 **LeetCode Profile:** [pd1207](https://leetcode.com/u/pd1207)
 
 <p align="center">
