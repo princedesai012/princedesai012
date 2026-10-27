@@ -12,7 +12,7 @@
 ---
 
 ### Who is Prince Desai?
-3rd-year Computer Engineering student based in **Surat**. I specialize in turning complex problems into simple, automated solutions. I don't just "write code"—I build **Micro-SaaS** and **Automation Workflows** that deliver value.
+Final-Year Computer Engineering student based in **Surat**. I specialize in turning complex problems into simple, automated solutions. I don't just "write code"—I build **Micro-SaaS** and **Automation Workflows** that deliver value.
 
 - 🏆 **Certification:** Google Project Management Professional (Coursera).
 - 🛠️ **Current Focus:** Scaling **Doc-Flow** & Mastering **System Design**.
