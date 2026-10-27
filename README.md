@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Desai</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Engineer;Full+Stack+MERN+Developer;AI/ML+Enthusiast;Automation+Consultant;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Final+Year+Computer+Engineer;Full+Stack+MERN+Developer;AI/ML+Enthusiast;Automation+Consultant;" alt="Typing SVG" />
 </p>
 
 <p align="center">
